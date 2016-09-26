@@ -1,0 +1,111 @@
+/*BASIC*/
+
+.mainmanDOGS{
+	font-size: 5px;
+	font-weight: 100;
+	font-family: "Brush Script MT";
+	color: #c6d43c;
+	text-align: center;}
+.mainmanrandysavage{
+	font-size:50px;
+	font-family:"Chalkboard";
+	text-align: center;}
+.mainmansavagetwo{
+	text-align: center;
+	font-family:"Chalkboard";
+	color:green;
+	font-size:50px;}
+.mainmanlinkloveandlife{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanlinkfroggy{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanjaad{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanmusical{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmansecretshrek{
+	text-align:right;
+	font-family:"Comic Sans MS";
+	color:orange;
+	font-size:2px;}
+/*/SHREKTACULAR*/
+
+.textshrek{
+	font-size:80px;
+	font-weight:bold;
+	font-family:"Comic Sans MS";
+	color:Pink;}
+.titleshrek{
+	font-size:10px;
+	font-weight:200;
+	font-family:"Blackoak STD";
+	color:orange;}
+.subtitleshrek{
+	font-size:5px;
+	font-weight:100;
+	font-family:"Baghdad";
+	color:white;}
+.creditshrek{
+	color: #0FFFBB;
+	font-family:"Comic Sans MS";}
+/*FROGGY!*/
+
+.froggytop{
+	font-size: 60px;
+	color:gray;
+	text-align: center;}
+.froggytwo{
+	text-align: left;
+	color:red;
+	font-size: 70px;}
+.froggythree{
+	text-align: right;
+	color:orange;
+	font-size: 40px;
+	font-family:"Papyrus";}
+.froggytrump{
+	text-align:center;
+	font-weight:100;
+	font-size: 50;
+	font-family:"Times New Roman";
+	color:pink}
+.froggyclinton{
+	text-align:left;
+	font-weight:500;
+	font-size: 60;
+	font-family:"Comic Sans MS";
+	color:blue}
+.froggygod{
+	text-align:center;
+	font-weight:800;
+	font-size: 30;
+	font-family:"helvetica";
+	color:black}
+.froggyabove{
+text-align:center;
+	font-weight:500;
+	font-size: 100;
+	font-family:"Comic Sans MS";
+	color:#00FF00}
+/*Doggy
+body{
+	background-image: url("angrydog.jpg");
+	background-image: no-repeat;}*/
+/*secret shrek*/
+.secretshrek{
+	text-align: center;
+	color: red;
+	font-family:"Comic Sans MS";
+	font-size: 70px;}	
