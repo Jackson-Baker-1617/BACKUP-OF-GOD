@@ -40,6 +40,16 @@
 	font-family:"Comic Sans MS";
 	color:orange;
 	font-size:2px;}
+.mainmanohcuckada{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanSPIDER{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
 /*/SHREKTACULAR*/
 
 .textshrek{
@@ -78,32 +88,59 @@
 .froggytrump{
 	text-align:center;
 	font-weight:100;
-	font-size: 50;
+	font-size: 50px;
 	font-family:"Times New Roman";
 	color:pink}
 .froggyclinton{
 	text-align:left;
 	font-weight:500;
-	font-size: 60;
+	font-size: 60px;
 	font-family:"Comic Sans MS";
 	color:blue}
 .froggygod{
 	text-align:center;
 	font-weight:800;
-	font-size: 30;
+	font-size: 30px;
 	font-family:"helvetica";
 	color:black}
 .froggyabove{
-text-align:center;
+	text-align:center;
 	font-weight:500;
-	font-size: 100;
+	font-size: 100px;
 	font-family:"Comic Sans MS";
 	color:#00FF00}
 /*Doggy
 body{
 	background-image: url("angrydog.jpg");
 	background-image: no-repeat;}*/
-/*secret shrek*/
+
+/*spooders*/
+.spooder{
+	text-align:center;
+	font-size: 90px;
+	font-family:"Comic Sans MS";
+	color:#ff66ff;}
+.spooder2{
+	text-align:center;
+	font-size: 90px;
+	font-family:"Comic Sans MS";
+	color:#ff66ff;}
+.spoodersad{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:60px;}
+/*you monster*/
+.verysad{
+	font-size: 50px;
+	font-family:"Charlemagne Std Bold";
+	text-align:center;
+	color:blue;
+	/*GET IT CAUSE HES FEELING BLUE CAUSE YOU DESTROYED HIS HAPPINESS*/
+	
+}
+	
+/*secretshrek*/
 .secretshrek{
 	text-align: center;
 	color: red;
