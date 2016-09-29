@@ -50,6 +50,21 @@
 	font-family:"Comic Sans MS";
 	color:#0000cc;
 	font-size:70px;}
+.mainmanduck{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanangryspider{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmaneducationspider{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
 /*/SHREKTACULAR*/
 
 .textshrek{
@@ -70,6 +85,11 @@
 .creditshrek{
 	color: #0FFFBB;
 	font-family:"Comic Sans MS";}
+.linkclassicshrek{
+	text-align:right;
+	font-family:"Comic Sans MS";
+	color:green;
+	font-size:1px;}
 /*FROGGY!*/
 
 .froggytop{
@@ -137,9 +157,29 @@ body{
 	text-align:center;
 	color:black;
 	/*GET IT CAUSE HES FEELING BLUE CAUSE YOU DESTROYED HIS HAPPINESS*/
-	/*note: it used to be blue text. blue text is trash.*/
-	
-}
+	/*note: it used to be blue text. blue text is trash.*/}
+/*classicshrek*/
+.classicshrek{
+	font-size:80px;
+	font-weight:bold;
+	font-family:"Comic Sans MS";
+	color:pink;
+	background-color:orange;}	
+/*angryspider*/
+.angryspider{
+	font-size: 30px;
+	text-align:center;
+	color:black;
+	font-weight:800;}
+/*smartspider*/
+.educationspider{
+	font-size:25px;
+	font-family:"Times New Roman";
+	color: white;
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;}
+.educationspidersource{
+	font-size:10px;
+	font-family:"Times New Roman";}
 	
 /*secretshrek*/
 .secretshrek{
