@@ -70,6 +70,16 @@
 	font-family:"Comic Sans MS";
 	color:#0000cc;
 	font-size:70px;}
+.mainmaniwannacry{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
+.mainmanpopup{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	color:#0000cc;
+	font-size:70px;}
 .mainmanear{
 	text-align:center;
 	font-family:"Comic Sans MS";
@@ -190,8 +200,11 @@ body{
 .educationspidersource{
 	font-size:10px;
 	font-family:"Times New Roman";}
-	
-
+.download{
+	font-size:25px;
+	font-family:"Times New Roman";
+	color: white;
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;}
 /*secretshrek*/
 .secretshrek{
 	text-align: center;
